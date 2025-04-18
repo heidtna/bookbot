@@ -1,0 +1,5 @@
+# Ignore book text
+/books
+
+# Ignore cache
+__pycache__
